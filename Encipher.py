@@ -8,4 +8,4 @@ for i in range(len(original_text)):
             num = num +26
         original_text[i] = chr(num+96)
 enciphered_text = ''.join(original_text)
-#print("Enciphered Text:\t"+enciphered_text
+print("Enciphered Text:\t"+enciphered_text)
