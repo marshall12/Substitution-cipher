@@ -21,7 +21,7 @@ def decipher(char):
 # So observing the results considering them the most repeated character  for each individual
 # Six results should be observed to find the valid output, or we can check the number of valid words in each output
 # considering the output with most valid words the correct one.
-
+#In this example, we can clearly see from output that 'e'is the most repeated letter.
 
 print("Deciphered Text considering letter 'e':\t"+decipher('e')+"\n")
 print("Deciphered Text considering letter 't':\t"+decipher('t')+"\n")
